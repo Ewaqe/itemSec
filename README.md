@@ -1,0 +1,10 @@
+# itemSec
+# Requirements
+- Python
+- scikitlearn
+- numpy
+- navec
+- pymorphy3
+- nltk
+# OS
+Linux, windows
